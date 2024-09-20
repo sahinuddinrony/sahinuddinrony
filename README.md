@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 Greetings! [I’m Sahin Uddin Rony](https://www.youtube.com/@LaravelSolutionall), and I have a strong passion for web development. I possess strong proficiency in PHP, with a focus on the Laravel framework. 
-
-Completed more than 5 different projects on laravel (https://github.com/sahinuddinrony)
-
 My passion for technology is immense, and I firmly believe in its transformative power to create significant positive change and enhance lives.
 
 <!--
